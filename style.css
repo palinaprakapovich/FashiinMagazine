@@ -1,0 +1,275 @@
+*{
+    margin:0;
+    }
+    body{
+    background-image: url(kwiaty.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+  
+    }
+    header{
+    padding: 30px 5%;
+    background-color:#dfdac9;
+    }
+    header>*{
+    display: inline-block;
+    width:450px;
+    }
+
+    h1{
+        /* magazine */
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 39px;
+
+    color: #000000;
+
+
+    }
+    .pustota{
+    width:10%;
+    }
+
+    #s{
+        /* Sport */
+
+    position: absolute;
+    width: 62px;
+    height: 35px;
+    left: 924px;
+    top: 39px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+
+    color: #000000;
+
+
+    }
+    #t{
+        /* Trends */
+
+    position: absolute;
+    width: 90px;
+    height: 45px;
+    left: 1030px;
+    top: 41px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+
+    color: #000000;
+
+
+    }
+    #b{
+        /* Beauty */
+
+    position: absolute;
+    width: 97px;
+    height: 23px;
+    left: 1149px;
+    top: 42px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+
+    color: #000000;
+    }
+
+    #h{
+        /* Help */
+
+    position: absolute;
+    width: 55px;
+    height: 42px;
+    left: 1271px;
+    top: 44px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+
+    color: #000000;
+    }
+    .banner{
+    padding: 10% 5%;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    /* All about beauty and health */
+
+
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 300;
+    line-height: 39px;
+
+    color: #000000;
+
+
+    }
+    /* Here you will find interviews, fashion sessions, cover sessions and shopping from the latest issue of "Fashion Magazine". You will read about the hottest trends for the spring, summer, autumn, winter seasons. We present beauty novelties, makeup trends, skincare trends. */
+    #rhodep{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 45px;
+    /* or 281% */
+    text-align: center;
+
+    color: #000000;
+        
+    }
+
+    .post{
+    padding: 10px 5%;
+    text-align: center;
+    background-color:white;
+    }
+    .post>*{
+        display: inline-block;
+        width:450px;
+        font-size:25px;
+        vertical-align: middle;
+        font-family: 'Inter';
+        font-style: normal;
+        }
+    .razryv{
+    height:200px;
+    }
+    h2{
+
+
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 70px;
+
+    color: #000000;
+  
+    }
+    #beauty{
+    padding:5% 20%;
+    background-color:rgb(255, 255, 255);
+    background-attachment: fixed;
+    }
+    #beauty>div{
+    padding: 5px;
+    background-image:url(kwiat4.jpg);
+    font-size:15px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    }
+    footer{
+    background-color:black;
+    padding:10px 0;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    }
+    h4{
+        /* B E A U T Y */
+
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 105px;
+    text-align: center;
+
+    color: #000000;
+    }
+
+    .bet{
+        /* skin care */
+
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    /* identical to box height */
+
+    color: #000000;
+    }
+
+    #bea{
+
+        /* The best cosmetics for face and body care. Face creams, serums, gels, micellar fluids, hand and body balms, foot creams, eye creams, eyelash conditioners, oils. Korean masks, acne cosmetics, anti-wrinkle products, hypoallergenic cosmetic */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+
+    color: #000000;
+
+
+
+    }
+
+    #spr{
+        /* HOW OFTEN DO MODELS WORK OUT? This varies depending on the model and what work they have coming up. Most Victoria Secret models tend to work out almost every day (once per day). But, before the iconic Victoria’s Secret fashion show (before it was canceled in 2019) some of the girls (Barbara Palvin and Kasey Merritt) used to train twice per day. Talk about dedication!  Other models such as Candice Swanepoel only work out 3 times per week, and every day for 2 weeks leading up to Victoria’s Secret fashion show. If you need a bit of fitness inspo, check out this workout video of Taylor Hill. Girl Boss Goals! */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #373030;
+
+
+    }
+
+    .ngh2{
+        /* Sport in your life */
+
+
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 39px;
+
+    color: #000000;
+
+
+    }
+    
+    #trends>div{
+        padding: 80px;
+        background-image:url(kwiat4.jpg);
+        font-size:15px;
+        text-align: center;
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 56px;
+    }
+
+    p#spr{
+        line-height: 2;
+    }
